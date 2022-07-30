@@ -1,55 +1,55 @@
 {
-    "LANGUAGE": "English",
-    "LANGCODE": "en",
-    "AUTHOR"  : "sanuwa official",
+    "LANGUAGE": "Arabic",
+    "LANGCODE": "ar",
+    "AUTHOR"  : "fridrik offic",
     "STRINGS" : { 
                   "aqua" : {   
-                            "COMMAND"  : "Command",
-                            "DESC"     : "Description",
-                            "EXAMPLE"  : "Example",
-                            "NOT_FOUND": "*I couldnt find a command like this*",
+                            "COMMAND"  : "ڪوموند",
+                            "DESC"     : "الوصف",
+                            "EXAMPLE"  : "متال",
+                            "NOT_FOUND": "*مطلعش الڪوموند*",
                             "WARN"     : "Warn"
                            },
                   "yt" :   {
-                            "N_SONG"   : "*🧜‍♀️💬ENTER A SONG NAME*\nex : .song faded" ,
-                            "NOT_SONG" : "*SONG NOT FOUND‼️*" ,
-                            "S_YT"     : "*🔍SEARCHING ON YOUTUBE...*" ,
-                            "N_YT"     : "*🧜‍♀️💬ENTER A TOPIC* \nex : .getyt sri lanka cricket" ,
-                            "N_VID"    : "*🧜‍♀️💬ENTER A YOUTUBE VIDEO LINK*\nex : .video https://youtu.be/pyCIKli4YUA" ,
-                            "N_FB"     : "*🧜‍♀️💬ENTER A FACEBOOK VIDEO LINK*" , 
-                            "N_MF"     : "*🧜‍♀️💬ENTER A MEDIAFIRE LINK*" , 
-                            "N_TIK"    : "*🧜‍♀️💬ENTER A TIKTOK VIDEO LINK*" ,
-                            "NOT_VID"  : "*VIDEO NOT FOUND‼️*", 
-                            "N_IG "    : "🧜‍♀️💬ENTER A INSTAGRAM LINK",
-                            "N_FOUND"  : "*NOT FOUND‼️*"
+                            "N_SONG"   : "*🧜‍♀️💬خاصڪ دير سمية الاغنية*\nمتلا : .song القرآن الڪريم" ,
+                            "NOT_SONG" : "*الاغنية مڪايناش‼️*" ,
+                            "S_YT"     : "*🔍ڪنبحت فيوتوب...*" ,
+                            "N_YT"     : "*🧜‍♀️💬ڪتب داڪشي لي بغتي تبحت عليه* \nمتلا : .getyt ملخص الريال وبرشلونة" ,
+                            "N_VID"    : "*🧜‍♀️💬دخل رابط ديال الفيديو *\nمتلا : .video https://youtu.be/pyCIKli4YUA" ,
+                            "N_FB"     : "*🧜‍♀️💬دخل رابط ديال فيسبوڪ*" , 
+                            "N_MF"     : "*🧜‍♀️💬دخل رابط ديال ميديافاير*" , 
+                            "N_TIK"    : "*🧜‍♀️💬دخل رابط ديال تيڪ توڪ*" ,
+                            "NOT_VID"  : "*مطلعش الفيديو‼️*", 
+                            "N_IG "    : "🧜‍♀️💬دير رابط ديال انستغرام",
+                            "N_FOUND"  : "*مڪاينش‼️*"
                           } ,
                 "admin" : {  
-                             "UR_NOT_ADMIN": "*You are not admin in this group!*",
-                             "IM_NOT_ADMIN": "*I am not admin in this group!*",
-                             "BANNED": "kicked out of the group!",
-                             "GIVE_ME_USER": "*Give me a user!*" ,
-                             "USER_IS_ADMIN" : "*Can not kick group Admins!*" ,
-                             "ADDED"         : "added to the group!!" ,
-                             "E_USER"        : "*🧜‍♀️💬  Enter the number to be added to the group with the country code without + mark and space.*",
-                             "ISN_ADMIN"     : "*🧜‍♀️💬The person you mentioned is not a group admin.*",
-                             "IS_ADMIN"      : "*🧜‍♀️💬The person you mentioned is a group admin.*",
-                             "MUTE"          : "*🧜‍♀️💬The group chat has muted!.*",
-                             "UNMUTE"        : "*🧜‍♀️💬The group chat has unmuted!.*",
-                             "PROMOTE"       : "has been promoted !",
-                             "DEMOTE"        : "has been demoted !"
+                             "UR_NOT_ADMIN": "*نتا ماشي ادمن فالغروب!*",
+                             "IM_NOT_ADMIN": "*انا ماشي ادمن فالغروب!*",
+                             "BANNED": "هبط من الڪروب!",
+                             "GIVE_ME_USER": "*عطيني مستخدم!*" ,
+                             "USER_IS_ADMIN" : "*منقدرش نخرج ادمن من الڪروب!*" ,
+                             "ADDED"         : "دخل للڪروب!!" ,
+                             "E_USER"        : "*🧜‍♀️💬  ڪتب النمرة لي غندخل للڪروب وماتنساش رمز الدولة.*",
+                             "ISN_ADMIN"     : "*🧜‍♀️💬خونا ماشي ادمن فالڪروب.*",
+                             "IS_ADMIN"      : "*🧜‍♀️💬خونا راه ادمن فالڪروب.*",
+                             "MUTE"          : "*🧜‍♀️💬المساجات دالڪروب سڪتيهم!.*",
+                             "UNMUTE"        : "*🧜‍♀️💬المساجات دالڪروب خدامين!.*",
+                             "PROMOTE"       : "رفعتيه !",
+                             "DEMOTE"        : "هبطتيه !"
     
                            } ,
                 "stic" : {
-                              "NEED"   : "*🧜‍♀️💬 please mention an image or video*" ,
-                              "C_STIC" : "```🧰creating sticker...```" ,
-                              "N_STIC" : "*🧜‍♀️💬 Please mention a sticker.*" ,
-                              "C_IMG"  : "```🧰converting sticker to image...```" ,
-                              "C_VID"  : "```🧰converting animated sticker to video...```" 
+                              "NEED"   : "*🧜‍♀️💬 خاصڪ دير يا تصويرة يا فيديو*" ,
+                              "C_STIC" : "```🧰ڪنقاد فستيڪر...```" ,
+                              "N_STIC" : "*🧜‍♀️💬 خاصڪ دير ستيڪر.*" ,
+                              "C_IMG"  : "```🧰ڪنحول ستيڪر لتصويرة...```" ,
+                              "C_VID"  : "```🧰ڪنحول ستيڪر لفيديو...```" 
                            },
                
                 "apk"  :  {  
-                              "N_LINK" : "*🧜‍♀️💬 Enter a google playstore app link .*" ,
-                              "ERROR"  : "*🧜‍♀️💬APK Not Found!.*"
+                              "N_LINK" : "*🧜‍♀️💬دير رابط دبلاي ستور .*" ,
+                              "ERROR"  : "*🧜‍♀️💬مڪاينش!.*"
     
                            },
          "filters": {
